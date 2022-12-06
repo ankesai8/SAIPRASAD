@@ -68,7 +68,7 @@ const Data = () => {
           /></h3>
         <p className='home__description' style={{fontFamily:"changa"}}>I'm a MERN Stack developer specializing in building exceptional digital experiences. Currently, Learning AWS and improving my skills in building responsive full-stack web applications.</p>
 
-        <a href='https://drive.google.com/file/d/1szYUofMj_d2rbdAP_C0zL6lz5yB1xcwo/view' className='button button--flex' style={{fontFamily:"changa"}}>
+        <a href='https://drive.google.com/file/d/1szYUofMj_d2rbdAP_C0zL6lz5yB1xcwo/view' target="_blank" className='button button--flex' style={{fontFamily:"changa"}}>
             Hire Me
             <svg
                   class="button__icon"
